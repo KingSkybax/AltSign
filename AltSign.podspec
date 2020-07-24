@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "12.0"
   spec.source       = { :git => "https://github.com/rileytestut/AltSign.git" }
 
-  spec.author             = { "Riley Testut" => "riley@rileytestut.com" }
+  spec.author             = { "Pascal Gesing" => "pascalgesing@icloud.com" }
   spec.social_media_url   = "https://twitter.com/rileytestut"
   
   spec.source_files  = "AltSign", "AltSign/**/*.{h,m,mm,hpp,cpp}"
